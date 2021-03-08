@@ -15,7 +15,8 @@
         url(../images/hero.jpg);
     background-size: cover;
     background-position: top;
-    clip-path: polygon(0 0, 100% 0, 100% 70vh, 0 100%);
+    -webkit-clip-path: polygon(0 0, 100% 0, 100% 75vh, 0 100%);
+    clip-path: polygon(0 0, 100% 0, 100% 75vh, 0 100%);
     position: relative;
 
     &__logo-box {
@@ -61,5 +62,31 @@
         animation: moveinRight 2s ease-out;
         margin-bottom: 4rem;
     }
+}
+.heading-secondary{
+    font-size: 3.5rem;
+    text-transform: uppercase;
+    font-weight: 700;
+    background-image: linear-gradient(to right, $color-primary-light, $color-primary-dark);
+    display: inline-block;
+    -webkit-background-clip: text;
+    letter-spacing: .2rem;
+    transition: all .2s;
+    color: transparent;
 
+    &:hover{
+        transform: skewY(2deg) skewX(15deg) scale(1.1);
+        text-shadow: .5rem 1rem 2rem rgba($color-black, .2);
+    }
+}
+.tertiary-heading{
+    font-size: $default-font-size;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+.paragraph{
+    font-size: $default-font-size;
+    &:not(:last-child){
+        margin-bottom: 3rem;
+    }
 }
