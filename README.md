@@ -1,7 +1,9 @@
 # Advanced Website
 
-**Additional description about the project and its features.**
-This is my personal website to show my css and sass skills and design
+> Advanced Website
+
+**Additional description about the project and its features.** 
+- This is my personal website to show my css and sass skills and design
 
 
 ## ⚒️ Built With
