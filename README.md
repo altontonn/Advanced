@@ -1,5 +1,4 @@
-
-> Advanced Website
+# Advanced Website
 
 **Additional description about the project and its features.**
 This is my personal website to show my css and sass skills and design
@@ -30,14 +29,14 @@ The following tools help make it easier to run this code.
 ## 🔥 Getting Started
 
 If you installed git you can clone the code to your machine, or download a ZIP of all the files directly.
-[Download the ZIP from this location](https://github.com/altontonn/Advanced/archive/refs/heads/main.zip), or run the following [git](https://git-scm.com/downloads) command to clone the files to your machine:
+[Download the ZIP from this location](https://github.com/altontonn/Advanced/archive/refs/heads/master.zip), or run the following [git](https://git-scm.com/downloads) command to clone the files to your machine:
 
 ```bash
   https://github.com/altontonn/Advanced
 ```
 
-- Once the files are downloaded or cloned on your machine, open the "Portfolio" folder in [Visual Studio Code(VSCode)](https://code.visualstudio.com/)
-- Optionally you can simply open the index.html file located in the "personal-portfolio" folder with your preferred browser
+- Once the files are downloaded or cloned on your machine, open the "Advanced" folder in [Visual Studio Code(VSCode)](https://code.visualstudio.com/)
+- Optionally you can simply open the index.html file located in the "Advanced" folder with your preferred browser
 
 ## 🙎🏾‍♂️ Author
 
